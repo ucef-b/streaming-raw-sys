@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+aiokafka
+cv2
+pymongo
+kafka-python
+rasterio
+Pillow
+numpy
